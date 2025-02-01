@@ -134,6 +134,7 @@ Instead of running services manually, we can use **Docker Compose** to container
 To stop all running containers:
 ```sh
 docker-compose down
+```
 
 ---
 
